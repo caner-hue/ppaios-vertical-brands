@@ -20,21 +20,15 @@ TBC — Caner to confirm Shopify URL, Klaviyo account, ad platforms during onboa
 
 ## 4. Vertical Brands (FaceGym engagement)
 
-- **Status:** active
+- **Status:** active 🟡 (data thin in PP system today)
 - **Tier:** commission
-- **Started:** TBC
-- **Window:** ongoing — paid on results
-- **Scope:** FaceGym email marketing strategy. Drive: `FINAL_FACEGYM - Email Marketing Strategy - Vertical Brands.key`. Vertical Brands is the agency PP partners with; FaceGym is their end client.
-- **Invoicing:**
-  - Fee: commission only (no retainer)
-  - Cadence: when results pay — TBC how measured (revenue lift? campaign performance fee?)
-  - Last invoice: TBC
-  - Channel: TBC (likely Stripe or Vertical Brands' AP)
-- **Stakeholders:** TBC at Vertical Brands; FaceGym contact via Vertical.
-- **Tools:** Klaviyo (assumed, per email strategy doc).
+- **Scope:** FaceGym email marketing strategy delivery (per Drive: `FINAL_FACEGYM - Email Marketing Strategy - Vertical Brands.key`)
+- **Invoicing:** Commission only ❓ %
+- **Stakeholders:** TBC ❓
+- **Tools:** TBC ❓
 - **Open questions:**
-  - Commission %?
-  - What's the attribution baseline?
-  - PP's reporting cadence to Vertical?
+  - Commission % and trigger (revenue lift? campaign performance fee?)
+  - Reporting cadence to Vertical Brands?
+  - PP-side lead?
 
 ---
