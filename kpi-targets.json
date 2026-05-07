@@ -1,0 +1,10 @@
+{
+  "brand": "vertical-brands",
+  "tier": "commission",
+  "targets": {
+    "commission_revenue_gbp_per_month": {
+      "target": 1000,
+      "floor": 200
+    }
+  }
+}
