@@ -18,17 +18,19 @@ TBC — Caner to confirm Shopify URL, Klaviyo account, ad platforms during onboa
 
 <!-- AUTO-SYNCED FROM ~/dev/ppaios-pp/references/client-roster.md — DO NOT EDIT BELOW THIS LINE; edit roster instead -->
 
-## 4. Vertical Brands (FaceGym engagement)
+## 4. Vertical Brands (FaceGym engagement) ✅
 
-- **Status:** active 🟡 (data thin in PP system today)
-- **Tier:** commission
-- **Scope:** FaceGym email marketing strategy delivery (per Drive: `FINAL_FACEGYM - Email Marketing Strategy - Vertical Brands.key`)
-- **Invoicing:** Commission only ❓ %
-- **Stakeholders:** TBC ❓
-- **Tools:** TBC ❓
+- **Status:** active ✅
+- **Tier:** commission / monthly retainer (FaceGym sub-engagement billed monthly per the invoicing skill)
+- **Registered billing entity:** **Vertical Brands Ltd** ✅
+- **Billing address:** 22 Wenlock Road, London N1 7GU ✅
+- **Billing email:** **Aran@verticalbrands.co** ✅
+- **Stakeholders:** Aran (primary contact at Vertical Brands)
+- **Scope:** FaceGym email marketing strategy delivery (per Drive: `FINAL_FACEGYM - Email Marketing Strategy - Vertical Brands.key`). Invoice line uses `FaceGym | <Month YYYY>` per skill rendering rules.
+- **Invoicing:** Monthly invoice via the same `pp-weekly-invoicing` task (period field = `FaceGym | <Month YYYY>`) ✅
+- **Tools:** Klaviyo (assumed, per email strategy doc)
 - **Open questions:**
-  - Commission % and trigger (revenue lift? campaign performance fee?)
-  - Reporting cadence to Vertical Brands?
-  - PP-side lead?
+  - Specific monthly fee amount ❓
+  - End date of FaceGym engagement ❓
 
 ---
